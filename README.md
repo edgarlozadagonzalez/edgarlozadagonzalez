@@ -1,3 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+    <h1 align="center">Bienvenido 👋, soy Edgar</h1>
+    <h3 align="center">Como estudiante de ingeniería de sistemas, me apasiona el desarrollo y diseño de sistemas de software. Disfruto de la programación y tengo un amplio conocimiento en diferentes lenguajes de programación y herramientas. Me encanta explorar nuevas formas de resolver problemas y mejorar la eficiencia en diferentes áreas utilizando la tecnología. Soy una persona analítica y me gusta descomponer problemas complejos en piezas manejables para llegar a soluciones efectivas y eficientes. Me enfoco en la creación de soluciones innovadoras y en el aprendizaje continuo para mantenerme actualizado con las últimas tendencias tecnológicas.</h3>
 </div>
