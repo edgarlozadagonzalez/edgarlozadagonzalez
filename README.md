@@ -22,7 +22,7 @@
     <h3>🗂 Sistemas para control de versiones 🗂</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="100" height="100"/>&nbsp;
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pikpng.com%2Fpngvi%2FihbwmwT_github-logo-png-github-clipart%2F&psig=AOvVaw3J1VqkkfkG3MIv5R-7QW9K&ust=1677376290689000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiO3uHHr_0CFQAAAAAdAAAAABAJ" title="GitHub" alt="GitHub" width="100" height="100"/>
+        <img src="https://cpng.pikpng.com/pngl/s/256-2562286_github-logo-png-github-clipart.png" title="GitHub" alt="GitHub" width="100" height="100"/>
     </div>
 </div>
 
