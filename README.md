@@ -52,7 +52,7 @@
 <div align="left">
     <h3>📋 Gestión de proyectos 📋</h3>
     <div>
-        <img src="" title="Maven" alt="Maven" width="100" height="100"/>
+        <img src="https://assets.stickpng.com/images/62a78cbfe42d729d928b174e.png" title="Maven" alt="Maven" width="100" height="100"/>
     </div>
 </div>
 
