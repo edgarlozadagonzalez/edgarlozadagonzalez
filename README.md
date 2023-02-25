@@ -22,7 +22,7 @@
     <h3>🗂 Sistemas para control de versiones 🗂</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="100" height="100"/>&nbsp;
-        <img src="https://www.oomnitza.com/wp-content/uploads/2022/06/github-logo.png" title="GitHub" alt="GitHub" width="100" height="100"/>
+        <img src="https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png" title="GitHub" alt="GitHub" width="100" height="100"/>
     </div>
 </div>
 
