@@ -8,7 +8,7 @@
 <div align="left">
     <h3>💎Lenguajes de programación</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100" height="100"/>&nbsp;
     </div>
 </div>
 
