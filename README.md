@@ -42,7 +42,7 @@
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="SpringBoot" alt="SpringBoot" width="100" height="100"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="100" height="100"/>&nbsp;
-        <img src="" title="JPA" alt="JPA" width="100" height="100"/>&nbsp;
+        <img src="https://www.ambient-it.net/wp-content/uploads/2016/04/jpa-logo-175.png" title="JPA" alt="JPA" width="100" height="100"/>&nbsp;
         <img src="" title="Hibernate" alt="Hibernate" width="Hibernate" height="100"/>
     </div>
 </div>
