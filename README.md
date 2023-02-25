@@ -52,7 +52,7 @@
 <div align="left">
     <h3>📋 Gestión de proyectos 📋</h3>
     <div>
-        <img src="https://w7.pngwing.com/pngs/968/16/png-transparent-apache-maven-apache-ant-gradle-apache-http-server-apache-ivy-apache-maven-text-orange-logo-thumbnail.png" title="Maven" alt="Maven" width="100" height="100"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1024px-Apache_Maven_logo.svg.png" title="Maven" alt="Maven" width="100" height="100"/>
     </div>
 </div>
 
