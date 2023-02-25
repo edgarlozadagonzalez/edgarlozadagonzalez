@@ -5,12 +5,20 @@
 </div>
 
 ---
-## 💎Lenguajes de programación
+<div align="left">
+    <h3>💎Lenguajes de programación</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40">
+    </div>
+</div>
+
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PHP]()
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+
+
 
 ---
 ## 🗂Sistemas para control de versiones
