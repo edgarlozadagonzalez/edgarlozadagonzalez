@@ -3,7 +3,9 @@
     <h1 align="center">Bienvenido 👋, soy Edgar</h1>
     <h3 align="center">Estudiante de ingeniería de sistemas con pasión por el desarrollo de software. Me gusta programar y tengo habilidades en diferentes lenguajes de programación y herramientas. Me enfoco en la creación de soluciones innovadoras y en el aprendizaje continuo.</h3>
 </div>
+
 ---
+
 <div align="left">
     <h3>💎 Lenguajes de programación 💎</h3>
     <div>
@@ -13,7 +15,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="100" height="100">
     </div>
 </div>
+
 ---
+
 <div align="left">
     <h3>🗂 Sistemas para control de versiones 🗂</h3>
     <div>
