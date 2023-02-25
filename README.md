@@ -25,14 +25,18 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="100" height="100"/>
     </div>
 </div>
+
 ---
+
 <div align="left">
     <h3>🪄 Lenguajes de marcado y de estilo 🪄</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="100" height="100"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="100" height="100"/>
 </div>
+
 ---
+
 <div align="left">
     <h3>☕ Frameworks y ORM ☕</h3>
     <div>
@@ -42,14 +46,18 @@
         <img src="" title="Hibernate" alt="Hibernate" width="Hibernate" height="100"/>
     </div>
 </div>
+
 ---
+
 <div align="left">
     <h3>📋 Gestión de proyectos 📋</h3>
     <div>
         <img src="" title="Maven" alt="Maven" width="100" height="100"/>
     </div>
 </div>
+
 ---
+
 <div align="left">
     <h3>📖 Sistemas gestores de base de datos 📖</h3>
     <div>
