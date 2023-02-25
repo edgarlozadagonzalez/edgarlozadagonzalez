@@ -43,7 +43,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="SpringBoot" alt="SpringBoot" width="100" height="100"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="100" height="100"/>&nbsp;
         <img src="https://www.ambient-it.net/wp-content/uploads/2016/04/jpa-logo-175.png" title="JPA" alt="JPA" width="100" height="100"/>&nbsp;
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" title="Hibernate" alt="Hibernate" width="Hibernate" height="100"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" title="Hibernate" alt="Hibernate" height="100"/>
     </div>
 </div>
 
@@ -52,7 +52,7 @@
 <div align="left">
     <h3>📋 Gestión de proyectos 📋</h3>
     <div>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1024px-Apache_Maven_logo.svg.png" title="Maven" alt="Maven" width="100" height="100"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Apache_Maven_logo.svg/1024px-Apache_Maven_logo.svg.png" title="Maven" alt="Maven" height="100"/>
     </div>
 </div>
 
