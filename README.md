@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
     <h1 align="center">Bienvenido 👋, soy Edgar</h1>
-    <h3 align="center">Estudiante de ingeniería de sistemas con pasión por el desarrollo de software. Me gusta programar y tengo habilidades en diferentes lenguajes de programación y herramientas. Me enfoco en la creación de soluciones innovadoras y en el aprendizaje continuo.</h3>
+    <h3 align="center">Soy un apasionado desarrollador backend con experiencia en Java y Spring Boot, así como habilidades en lenguajes como Python, Go y PHP. Mi formación académica incluye estudios en ingeniería de sistemas, lo que ha mejorado mi capacidad para crear soluciones innovadoras a través del desarrollo de software. Mi enfoque se centra en diseñar e implementar soluciones robustas, respaldadas por mi experiencia en el manejo de bases de datos SQL.</h3>
 </div>
 
 ---
