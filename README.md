@@ -13,6 +13,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="100" height="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="100" height="100">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="100" height="100">
+        <img src="https://github.com/edgarlozadagonzalez/edgarlozadagonzalez/assets/110056560/5af53230-b819-4e18-8043-8eb91e822674)" title="Go" alt="Go" width="100" height="100">
+        
     </div>
 </div>
 
